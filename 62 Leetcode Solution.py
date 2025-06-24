@@ -1,6 +1,6 @@
 #Approach:2D DP
 #Time:O(mn)
-#Space:O(mn)
+
 class Solution:
   def uniquePaths(self, m: int, n: int) -> int:
     
